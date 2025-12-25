@@ -1,1 +1,19 @@
 Task 01 – Data Science Internship Task
+## Objective
+The objective of this task is to understand the fundamentals of data analysis and apply Python-based techniques to analyze datasets and extract meaningful insights.
+
+## Activities Performed
+- Data loading and inspection
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Basic visualizations
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+## Learning Outcome
+This task helped me strengthen my understanding of data handling, visualization, and analytical thinking using Python.
